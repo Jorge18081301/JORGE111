@@ -1,0 +1,6 @@
+{
+  "name": "Reto 2: Economía de Horacio Vásquez (1924–1930)",
+  "description": "Guía interactiva y dinámica con Jorge, Briant, Eduin y Andrys sobre el gobierno de Horacio Vásquez, con mapa 3D de República Dominicana y visualizador económico.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
